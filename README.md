@@ -5,5 +5,6 @@ This is my submission for the Movie Trailers Website Project. To get this up and
 
 * Download or Clone this project to your machine
 * Navigate to the project directory in the terminal
+* Run pip install requests
 * Run python entertainment_center.py
 * The website should then open in your browser
